@@ -1,0 +1,1 @@
+<resources><string name="hello">Hello World, Click Me!</string><string name="app_name">PasarDatosActivity</string><string name="txtEnviarAct">Enviar Texto a Activity2</string><string name="txtVolver">Volver</string><string name="txtIngresar">Ingrese un texto:</string><string name="txtRecibido">Usted envio:</string></resources>

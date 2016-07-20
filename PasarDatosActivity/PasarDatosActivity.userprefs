@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="PasarDatosActivity\PasarDatosActivity.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PasarDatosActivity\Activity2.cs">
+    <Files>
+      <File FileName="PasarDatosActivity\MainActivity.cs" Line="26" Column="5" />
+      <File FileName="PasarDatosActivity\Activity2.cs" Line="17" Column="4" />
+      <File FileName="PasarDatosActivity\Resources\values\Strings.xml" Line="8" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PasarDatosActivity AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
